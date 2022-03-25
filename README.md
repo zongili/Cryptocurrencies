@@ -1,4 +1,4 @@
-# Unpsupervised Machine Learning (ML) Cryptocurrencies
+# Unsupervised Machine Learning (ML) Cryptocurrencies
 ## Overview:
 Used unsupervised learning when we don't yet know the question we're asking of the data. We just want to figure out if there is anything at all the data can tell us for this project.
 ### Purpose: 
